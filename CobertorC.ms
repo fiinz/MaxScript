@@ -39,9 +39,6 @@ function cobertor ox oy oz dx dy dz n_div =
  --ZONA DE TRABALHO
 )
 
--- O Cobertor dos Pobrezinhos
--- (c) Jose' F. Martins 
--- 2005
 
 backgroundColor=white
 
